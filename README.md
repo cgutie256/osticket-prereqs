@@ -21,11 +21,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-Enable interenet information services 
-Install web platform installer
-Install my sequel and setup username amd password 
-install c++ redistrabutable 
-Configure permissions and install OS ticket
+1.Enable interenet information services
+
+2.Install web platform installer
+
+3.Install my sequel and setup username and password 
+
+4.Install c++ redistrabutable 
+
+5.Configure permissions and install OS ticket
 
 <h2>Installation Steps</h2>
 
