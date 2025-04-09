@@ -36,8 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://github.com/user-attachments/assets/a2a1f876-5143-4dba-906e-3957a229ff87" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Install / Enable IIS in Windows WITH CGI
+1. Install / Enable IIS in Windows WITH CGI
 World Wide Web Services -> Application Development Features -> [X] CGI
 
 </p>
@@ -46,8 +45,7 @@ World Wide Web Services -> Application Development Features -> [X] CGI
 <p>
 <img src="https://github.com/user-attachments/assets/64eb1cbf-d841-4482-9c03-56e162b7004f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+2. install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 
 </p>
 <br />
@@ -55,8 +53,7 @@ install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 <p>
 <img src="https://github.com/user-attachments/assets/9dfa9316-f483-42d4-8ab2-53986090c069" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+3. Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 Typical Setup ->
 Launch Configuration Wizard (after install) ->
 Standard Configuration ->
@@ -65,12 +62,24 @@ Password: root
 
 </p>
 <br />
-<img src="https://github.com/user-attachments/assets/2ddf06d7-53f6-49a1-8416-0d41e842b75f" height="80%" width="80%" alt="Disk Sanitization Steps">/
-<img src="https://github.com/user-attachments/assets/a15a708e-b7d2-4ee1-8abf-91f05895f47d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://github.com/user-attachments/assets/9c8a4c7c-f549-4465-bb8d-e0a802ab2392" height="80%" width="80%" alt="Disk Sanitization Steps">/
+</p>
+4. Install VC_redist.x86.exe.
 
 </p>
-<p>
-Assign Permissions: ost-config.php
-Disable inheritance ->
-Remove All
-New Permissions -> Everyone -> All
+<br />
+
+<img src="https://github.com/user-attachments/assets/bb912e89-c0ac-4db2-ac65-b75085d3b172" height="80%" width="80%" alt="Disk Sanitization Steps">/
+</p>
+5. Install HeidiSQL.
+
+</p>
+<br />
+
+<img src="https://github.com/user-attachments/assets/2ddf06d7-53f6-49a1-8416-0d41e842b75f" height="80%" width="80%" alt="Disk Sanitization Steps">/
+<img src="https://github.com/user-attachments/assets/a15a708e-b7d2-4ee1-8abf-91f05895f47d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+6. Assign Permissions: ost-config.php
+Disable inheritance ->Remove All New Permissions -> Everyone -> All and install Os Ticket 
+
