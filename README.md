@@ -64,13 +64,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <br />
-
-<p>
-
 <img src="https://github.com/user-attachments/assets/9c8a4c7c-f549-4465-bb8d-e0a802ab2392" height="80%" width="80%" alt="Disk Sanitization Steps">/
 </p>
+<br />
 - Install Microsoft Visual C++ Redistrabutable 
-
 </p>
 <br />
 
@@ -80,5 +77,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 - Open IIS as an Admin
-  
 
