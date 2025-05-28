@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-1.Enable interenet information services
+1.Enable internet information services
 
 2.Install web platform installer
 
