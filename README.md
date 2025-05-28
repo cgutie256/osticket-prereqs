@@ -14,72 +14,64 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
-
+- HeidiSQL
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
-1.Enable internet information services
+- Create a virtual machine running windows 10
 
-2.Install web platform installer
+- Enable Internet Information Services
 
-3.Install my sequel and setup username and password 
+- Install PHP on virtual machine 
 
-4.Install c++ redistrabutable 
+- Install the Rewrite Module 
 
-5.Configure permissions and install OS ticket
+- Install Microsoft Visual c++ redistrabutable
+
+- Install MySQL
 
 <h2>Installation Steps</h2>
 
 <p>
 <img src="https://github.com/user-attachments/assets/a2a1f876-5143-4dba-906e-3957a229ff87" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-1. Install / Enable IIS in Windows WITH CGI
-World Wide Web Services -> Application Development Features -> [X] CGI
+- Go to Control Panel and turn on Internet Information Services. After that, expand the World Wide Web Services section, then go to Application Development Features and make sure the CGI option is checked. Once that’s done, hit OK
+
 
 </p>
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/64eb1cbf-d841-4482-9c03-56e162b7004f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/256e2e1c-6733-43fc-b563-5d92f6d4a4df" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-2. install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+- Install Rewrite Module 
+
 
 </p>
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/9dfa9316-f483-42d4-8ab2-53986090c069" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://github.com/user-attachments/assets/64eb1cbf-d841-4482-9c03-56e162b7004f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-3. Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
-Typical Setup ->
-Launch Configuration Wizard (after install) ->
-Standard Configuration ->
-Username: root
-Password: root
+-Create the directory C:\PHP and Install PHP Manager for IIS 
+
 
 </p>
 <br />
+
+<p>
 
 <img src="https://github.com/user-attachments/assets/9c8a4c7c-f549-4465-bb8d-e0a802ab2392" height="80%" width="80%" alt="Disk Sanitization Steps">/
 </p>
-4. Install VC_redist.x86.exe.
+4. Install Microsoft Visual C++ Redistrabutable 
 
 </p>
 <br />
 
-<img src="https://github.com/user-attachments/assets/bb912e89-c0ac-4db2-ac65-b75085d3b172" height="80%" width="80%" alt="Disk Sanitization Steps">/
+<img src="https://github.com/user-attachments/assets/a2c0b57a-2e37-40a5-a2f5-b2e834a9b5ea" height="80%" width="80%" alt="Disk Sanitization Steps">/
 </p>
-5. Install HeidiSQL.
-
-</p>
-<br />
-
-<img src="https://github.com/user-attachments/assets/2ddf06d7-53f6-49a1-8416-0d41e842b75f" height="80%" width="80%" alt="Disk Sanitization Steps">/
-<img src="https://github.com/user-attachments/assets/a15a708e-b7d2-4ee1-8abf-91f05895f47d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-6. Assign Permissions: ost-config.php
-Disable inheritance ->Remove All New Permissions -> Everyone -> All and install Os Ticket 
+5. Install MySQL. Use the typical install option, and make sure you launch the MySQL Instance Configuration Wizard when it finishes.
 
