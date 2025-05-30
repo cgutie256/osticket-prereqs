@@ -236,7 +236,7 @@ Next up, we’re gonna install HeidiSQL. Just go with all the default settings d
 <img src="https://github.com/user-attachments/assets/fe8e7dde-2839-4bd1-8875-3259382d5f47" height="80%" width="80%" alt="Disk
 Sanitization Steps">
 </p>
-Connect to the SQL server created in previously.
+Connect to the SQL server created previously.
 
 
 </p>
@@ -245,7 +245,7 @@ Connect to the SQL server created in previously.
 <img src="https://github.com/user-attachments/assets/38a69eb2-cb69-4928-ab85-c7b443d135b8" height="80%" width="80%" alt="Disk
 Sanitization Steps">
 </p>
-Right click the Unnamed section on left column and create a new database called os ticket.
+Right click the Unnamed section on left column and create a new database called osTicket.
 
 
 </p>
