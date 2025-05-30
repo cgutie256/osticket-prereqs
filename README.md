@@ -263,7 +263,7 @@ Enter the info from the osTicket database you just set up on the install page, t
 <img src="https://github.com/user-attachments/assets/997d4249-d640-4072-a42a-f1f8d0a5f758" height="80%" width="80%" alt="Disk
 Sanitization Steps">
 </p>
-Installation is now complete and succesful now. 
+Installation is complete and succesful now. 
 
 
 </p>
