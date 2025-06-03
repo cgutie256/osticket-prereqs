@@ -145,7 +145,7 @@ Head over to the osTicket folder in IIS. Once you're there, click Browse *.80 (h
 <br />
 <br />
 <img src="https://github.com/user-attachments/assets/c803bd8a-c5d5-4b1f-94c0-6c2140475911" height="80%" width="80%" alt="Disk Sanitization Steps">
-<p>
+<br />
 This will open the osTicket installation page in your default browser. Before we jump into the install, we need to take care of a few things first.
 
 
@@ -172,7 +172,7 @@ Enable the following extensions: php_imap.dll, php_intl.dll, and php_opcache.dll
 <br />
 <img src="https://github.com/user-attachments/assets/166e552d-9067-4117-9556-1537fe65e5aa" height="80%" width="80%" alt="Disk
 Sanitization Steps">
-</p>
+<br />
 Go back and refresh the browser with the osTicket installation page. You should see all green check marks—don’t worry about the last two if they’re not green, they’re not needed for this setup.
 
 
