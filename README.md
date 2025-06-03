@@ -45,7 +45,7 @@ Set up a virtual machine with Windows 10. Make sure it has at least 2 CPUs and 1
 <br />
 <img src="https://github.com/user-attachments/assets/a2a1f876-5143-4dba-906e-3957a229ff87" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Go to Control Panel and turn on Internet Information Services. After that, expand the World Wide Web Services section, then go to Application Development Features and make sure the CGI option is checked. Once that’s done, hit OK
+Go to Control Panel and turn on Internet Information Services. After that, expand the World Wide Web Services section, then go to Application Development Features and make sure the CGI option is checked. Once that’s done, hit OK.
 
 
 </p>
@@ -54,7 +54,7 @@ Go to Control Panel and turn on Internet Information Services. After that, expan
 <br />
 <img src="https://github.com/user-attachments/assets/c1900d07-a59c-4aa0-b983-44c36b78b76c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Install PHP Manager for IIS 
+Install PHP Manager for IIS.
 
 
 </p>
@@ -63,7 +63,7 @@ Install PHP Manager for IIS
 <br />
 <img src="https://github.com/user-attachments/assets/dd68f339-21bc-48ce-8595-0ee9805475dc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Install Rewrite Module 
+Install the Rewrite Module. 
 
 
 </p>
@@ -72,7 +72,7 @@ Install Rewrite Module
 <br />
 <img src="https://github.com/user-attachments/assets/2cb935af-be02-4323-8557-94934d715aa1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Create the directory C:\PHP
+Create the directory C:\PHP.
 
 
 </p>
@@ -81,7 +81,7 @@ Create the directory C:\PHP
 <br />
 <img src="https://github.com/user-attachments/assets/9c8a4c7c-f549-4465-bb8d-e0a802ab2392" height="80%" width="80%" alt="Disk Sanitization Steps">
 <br />
-Install Microsoft Visual C++ Redistributable 
+Install Microsoft Visual C++ Redistributable. 
 
 
 </p>
@@ -98,7 +98,7 @@ Install MySQL. Use the typical install option, and make sure you launch the MySQ
 <br />
 <img src="https://github.com/user-attachments/assets/a6759635-1453-4834-a0d3-5e728d23bc0d" height="80%" width="80%" alt="Disk Sanitization Steps">
 <br />
-Set up your server using the standard configuration 
+Set up your server using the standard configuration. 
 
   
 </p>
@@ -106,7 +106,7 @@ Set up your server using the standard configuration
 <br />
 <img src="https://github.com/user-attachments/assets/c1d7e90f-1ff0-4d9d-be3e-ccc15126ef86" height="80%" width="80%" alt="Disk Sanitization Steps">
 <br />
-Run IIS as an administrator
+Run IIS as an administrator.
 
   
 </p>
@@ -130,7 +130,7 @@ Go ahead and extract the osTicket installation folder, then copy the upload fold
 <br />
 <img src="https://github.com/user-attachments/assets/599e179c-96f3-479b-ae55-d23703cf5a5d" height="80%" width="80%" alt="Disk Sanitization Steps">
 <br />
-Rename the upload folder to osTicket, then restart the ISS server 
+Rename the upload folder to osTicket, then restart the ISS server. 
 
 
 </p>
@@ -263,7 +263,7 @@ Enter the info from the osTicket database you just set up on the install page, t
 <img src="https://github.com/user-attachments/assets/997d4249-d640-4072-a42a-f1f8d0a5f758" height="80%" width="80%" alt="Disk
 Sanitization Steps">
 <br />
-Installation is complete and succesful now. 
+Installation is complete and succesful. 
 
 
 </p>
