@@ -224,7 +224,7 @@ Head back to the installation screen in your browser and fill out the first half
 </p>
 <br />
 <br />
-<img src="https://github.com/user-attachments/assets/d846cbbf-1963-4ed0-9211-b5b302109b3a" height="80%" width="80%" alt="Disk
+<img src="https://github.com/user-attachments/assets/d49e4310-798a-46e7-94f9-6fccbb47d264" height="80%" width="80%" alt="Disk
 Sanitization Steps">
 </p>
 Next up, we’re gonna install HeidiSQL. Just go with all the default settings during the install, and make sure to launch it once it’s done.
