@@ -254,7 +254,7 @@ Right-click the Unnamed section on the left column and create a new database cal
 <img src="https://github.com/user-attachments/assets/bfffa257-8512-4a9e-90da-06dcb15788a9" height="80%" width="80%" alt="Disk
 Sanitization Steps">
 <br />
-Enter the info from the osTicket database you just set up on the install page, then hit Install Now.
+Enter the information from the osTicket database you just set up on the installation page, then click Install Now.
 
 
 </p>
@@ -263,7 +263,7 @@ Enter the info from the osTicket database you just set up on the install page, t
 <img src="https://github.com/user-attachments/assets/997d4249-d640-4072-a42a-f1f8d0a5f758" height="80%" width="80%" alt="Disk
 Sanitization Steps">
 <br />
-Installation is complete and succesful. 
+Installation is complete and successful. 
 
 
 </p>
