@@ -43,7 +43,7 @@ Set up a virtual machine with Windows 10. Make sure it has at least 2 CPUs and 1
 <br />
 <img src="https://github.com/user-attachments/assets/24b2de4e-773d-4b84-ad1c-906f7b797c01"80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Next, log in to your virtual machine.
+Log in to your virtual machine.
 
   
 </p>
